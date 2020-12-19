@@ -1,0 +1,48 @@
+#kuva{
+position:absolute;
+top:200px;
+left:00px;
+width:1350px;
+height:1000px;
+}
+.e{
+  font-size: 100px;
+  text-align: center;
+}
+.aaaa{
+  width:400px;
+  height:700px;
+  background-color: green;
+  position:absolute;
+  top:1500px;
+  left:900px;
+  font-size:100px;
+}
+.asaaa{
+  width:400px;
+  height:700px;
+  background-color: red;
+  position:absolute;
+  top:1500px;
+  left:100px;
+  font-size:100px;
+}
+.pis{
+  position:absolute;
+  top:1180px;
+  left:100px;
+    font-size:100px;
+}
+#hävi{
+  position:absolute;
+  top:600px;
+  left:100px;
+  font-size:100px;
+
+}
+#enn2{
+  position:absolute;
+  top:1280px;
+  left:100px;
+  font-size:100px;
+}
